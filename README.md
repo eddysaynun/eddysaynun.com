@@ -1,13 +1,6 @@
-# NotionNext
+**👋 Hey!**
 
-## 引用技术
+I'm **Edward Chen**.
 
-- **框架**: [Next.js](https://nextjs.org)
-- **样式**: [Tailwind CSS](https://www.tailwindcss.cn/)
-- **渲染**: [React-notion-x](https://github.com/NotionX/react-notion-x)
-- **评论**: [Twikoo](https://github.com/imaegoo/twikoo), [Giscus](https://giscus.app/zh-CN), [Gitalk](https://gitalk.github.io), [Cusdis](https://cusdis.com), [Utterances](https://utteranc.es)
-- **图标**: [Fontawesome](https://fontawesome.com/v6/icons/)
-
-## License
-
-The MIT License.
+- 🇬🇧 MSc (CS) graduate at [**University of Glasgow**](https://www.gla.ac.uk/) with distinction (2021 - 2022).
+- 🇨🇳 BSc (CS) graduate at [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/) (2016 - 2020).
